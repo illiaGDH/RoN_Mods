@@ -7,7 +7,7 @@
 ReadyOrNot\Content\Paks
 <img width="1664" height="1342" alt="image" src="https://github.com/user-attachments/assets/0ba8f391-da16-441f-a612-f518cd2cc4e5" />
 
-## Step 3 Place downloaded `.pak` inside Pask folder.
+## Step 3 Place downloaded `.pak` inside Paks folder.
 
 ---
 
