@@ -1,6 +1,7 @@
 # Installation
+# Every .pak is a separate mod
 
-## Step 1 - Download  `.pak` файл
+## Step 1 - Download  `.pak`
 <img width="407" height="326" alt="image" src="https://github.com/user-attachments/assets/77a043f2-b5a8-4f4c-8370-c2137015b183" />
 
 ## Step 2: Open Paks folder
